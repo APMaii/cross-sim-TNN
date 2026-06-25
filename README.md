@@ -1,4 +1,6 @@
-# CrossSim (V3.1)
+# Cross Sim TNN + 
+
+CrossSim-TNN+ is an extended hardware-aware simulation framework built upon CrossSim. In addition to the original CrossSim functionality, it incorporates Trainable Threshold Neural Network (TNN) layers, custom APM device models, automated model conversion pipelines, and enhanced support for analog in-memory computing simulations. These additions enable seamless evaluation of conventional ANNs, TNNs, and custom memristive device models within a unified simulation environment.
 
 CrossSim is a GPU-accelerated, Python-based crossbar simulator designed to model analog in-memory computing for any application that relies on matrix operations: neural networks, signal processing, solving linear systems, and many more. It is an accuracy simulator and co-design tool that was developed to address how analog hardware effects in resistive crossbars impact the quality of the algorithm solution.
 
